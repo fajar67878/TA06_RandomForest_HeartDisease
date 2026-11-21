@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CardioTree - Prediksi Penyakit Jantung (Random Forest)</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body class="bg-light">
+<div class="container py-5">
+    <div class="row justify-content-center">
+        <div class="col-lg-8">
+            <div class="card shadow-sm border-0">
+                <div class="card-header bg-primary text-white py-3">
+                    <h4 class="mb-0">CardioTree — Sistem Deteksi Risiko Penyakit Jantung</h4>
+                    <small>Implementasi Algoritma Random Forest Classifier </small>
+                </div>
+                <div class="card-body p-4">
+                    {% if prediction %}
+                    <div class="alert alert-{{ alert_class }} text-center">
+                        <h5 class="fw-bold mb-1">{{ prediction }}</h5>
+                        <p class="mb-0">{{ probability }}</p>
+                    </div>
+                    {% endif %}
+
+                    <form method="POST">
+                        <div class="row g-3">
+                            <div class="col-md-4">
+                                <label class="form-label">Usia (Tahun)</label>
+                                <input type="number" name="age" class="form-control" value="54" required>
+                            </div>
+                            <div class="col-md-4">
+                                <label class="form-label">Jenis Kelamin</label>
+                                <select name="sex" class="form-select">
+                                    <option value="1">Laki-laki (1)</option>
+                                    <option value="0">Perempuan (0)</option>
+                                </select>
+                            </div>
+                            <div class="col-md-4">
+                                <label class="form-label">Tipe Nyeri Dada (cp)</label>
+                                <select name="cp" class="form-select">
+                                    <option value="Typical Angina">Typical Angina</option>
+                                    <option value="Atypical Angina">Atypical Angina</option>
+                                    <option value="Non-anginal Pain">Non-anginal Pain</option>
+                                    <option value="Asymptomatic" selected>Asymptomatic</option>
+                                </select>
+                            </div>
+                            <div class="col-md-4">
+                                <label class="form-label">Tekanan Darah (trestbps)</label>
+                                <input type="number" name="trestbps" class="form-control" value="130" required>
+                            </div>
+                            <div class="col-md-4">
+                                <label class="form-label">Kolesterol (chol mg/dl)</label>
+                                <input type="number" name="chol" class="form-control" value="240" required>
+                            </div>
+                            <div class="col-md-4">
+                                <label class="form-label">Gula Darah Puasa > 120</label>
+                                <select name="fbs" class="form-select">
+                                    <option value="0">Tidak (0)</option>
+                                    <option value="1">Ya (1)</option>
+                                </select>
+                            </div>
+                            <div class="col-md-4">
+                                <label class="form-label">Detak Jantung Maks (thalach)</label>
+                                <input type="number" name="thalach" class="form-control" value="150" required>
+                            </div>
+                            <div class="col-md-4">
+                                <label class="form-label">Angina Akibat Olahraga (exang)</label>
+                                <select name="exang" class="form-select">
+                                    <option value="0">Tidak (0)</option>
+                                    <option value="1">Ya (1)</option>
+                                </select>
+                            </div>
+                            <div class="col-md-4">
+                                <label class="form-label">ST Depression (oldpeak)</label>
+                                <input type="number" step="0.1" name="oldpeak" class="form-control" value="1.2" required>
+                            </div>
+                            <div class="col-md-4">
+                                <label class="form-label">Hasil EKG Istirahat (restecg)</label>
+                                <select name="restecg" class="form-select">
+                                    <option value="Normal">Normal</option>
+                                    <option value="ST-T Abnormality">ST-T Abnormality</option>
+                                    <option value="LV Hypertrophy">LV Hypertrophy</option>
+                                </select>
+                            </div>
+                            <div class="col-md-4">
+                                <label class="form-label">Kemiringan ST (slope)</label>
+                                <select name="slope" class="form-select">
+                                    <option value="Upsloping">Upsloping</option>
+                                    <option value="Flat" selected>Flat</option>
+                                    <option value="Downsloping">Downsloping</option>
+                                </select>
+                            </div>
+                            <div class="col-md-4">
+                                <label class="form-label">Pembuluh Utama (ca: 0-3)</label>
+                                <input type="number" min="0" max="3" name="ca" class="form-control" value="0" required>
+                            </div>
+                            <div class="col-md-12">
+                                <label class="form-label">Thalassemia (thal)</label>
+                                <select name="thal" class="form-select">
+                                    <option value="Normal">Normal</option>
+                                    <option value="Fixed Defect">Fixed Defect</option>
+                                    <option value="Reversible Defect" selected>Reversible Defect</option>
+                                </select>
+                            </div>
+                        </div>
+                        <button type="submit" class="btn btn-primary w-100 mt-4 py-2 fw-bold">Prediksi Risiko Jantung</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</body>
+</html>
