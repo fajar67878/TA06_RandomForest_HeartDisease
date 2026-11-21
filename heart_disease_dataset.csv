@@ -1,0 +1,501 @@
+age,sex,cp,trestbps,chol,fbs,restecg,thalach,exang,oldpeak,slope,ca,thal,target
+67,1,Non-anginal Pain,150,213,0,ST-T Abnormality,168,1,0.9,Upsloping,0,Normal,0
+57,0,Non-anginal Pain,126,179,0,ST-T Abnormality,188,0,0.3,Upsloping,3,Normal,0
+43,1,Asymptomatic,154,285,0,Normal,165,0,1.6,Flat,3,Normal,1
+71,1,Non-anginal Pain,143,290,0,Normal,155,0,2.3,Upsloping,0,Reversible Defect,1
+36,0,Atypical Angina,131,201,1,ST-T Abnormality,157,0,0.5,Upsloping,1,Normal,0
+49,0,Atypical Angina,157,218,0,Normal,159,0,2.1,Flat,0,Reversible Defect,1
+67,1,Atypical Angina,147,242,0,Normal,163,0,0.3,Flat,2,Normal,0
+47,1,Atypical Angina,181,361,0,Normal,142,0,0.8,Flat,0,Reversible Defect,1
+51,1,Non-anginal Pain,124,273,0,ST-T Abnormality,157,1,2.1,Flat,0,Reversible Defect,1
+39,1,Asymptomatic,132,197,1,Normal,162,0,0.4,Upsloping,0,Reversible Defect,0
+39,1,Atypical Angina,157,261,0,ST-T Abnormality,181,0,3.2,Flat,0,Reversible Defect,1
+52,1,Non-anginal Pain,104,175,0,Normal,178,0,0.1,Flat,0,Normal,0
+64,1,Non-anginal Pain,153,282,0,LV Hypertrophy,172,0,0.0,Downsloping,1,Reversible Defect,1
+68,1,Atypical Angina,138,331,0,Normal,173,0,2.5,Upsloping,1,Reversible Defect,1
+52,1,Asymptomatic,115,331,1,ST-T Abnormality,193,0,0.1,Upsloping,0,Reversible Defect,1
+31,1,Non-anginal Pain,107,283,0,Normal,196,1,5.1,Upsloping,0,Reversible Defect,1
+50,1,Atypical Angina,119,216,0,Normal,202,0,3.2,Upsloping,0,Fixed Defect,1
+30,1,Asymptomatic,94,179,0,ST-T Abnormality,188,0,0.2,Flat,2,Reversible Defect,1
+52,0,Non-anginal Pain,122,174,1,Normal,165,1,0.8,Upsloping,3,Normal,1
+72,1,Non-anginal Pain,141,126,0,ST-T Abnormality,163,0,0.2,Upsloping,3,Reversible Defect,1
+58,1,Non-anginal Pain,122,281,0,ST-T Abnormality,159,0,0.6,Upsloping,2,Normal,1
+66,1,Non-anginal Pain,154,240,0,ST-T Abnormality,190,1,0.1,Upsloping,0,Normal,0
+30,1,Asymptomatic,159,292,1,Normal,202,0,0.3,Upsloping,0,Normal,0
+49,1,Typical Angina,152,318,0,ST-T Abnormality,184,0,0.5,Upsloping,0,Normal,0
+61,0,Atypical Angina,134,251,0,Normal,163,0,0.6,Upsloping,2,Normal,0
+40,0,Typical Angina,94,253,0,ST-T Abnormality,170,0,4.0,Flat,0,Normal,1
+50,0,Asymptomatic,119,222,0,ST-T Abnormality,182,0,1.7,Flat,0,Normal,0
+72,1,Atypical Angina,128,228,0,ST-T Abnormality,132,0,1.4,Upsloping,2,Normal,1
+53,0,Asymptomatic,115,283,1,Normal,195,0,0.8,Downsloping,0,Normal,0
+77,1,Non-anginal Pain,128,237,0,ST-T Abnormality,145,0,1.9,Flat,0,Reversible Defect,1
+55,1,Asymptomatic,158,229,0,Normal,171,1,0.4,Flat,1,Reversible Defect,1
+70,1,Asymptomatic,103,245,0,ST-T Abnormality,137,0,1.3,Upsloping,0,Reversible Defect,1
+56,1,Asymptomatic,161,291,0,Normal,178,0,5.3,Upsloping,0,Reversible Defect,1
+44,1,Asymptomatic,146,210,0,ST-T Abnormality,166,0,0.4,Upsloping,1,Reversible Defect,1
+43,1,Non-anginal Pain,135,242,1,ST-T Abnormality,187,1,1.2,Upsloping,1,Normal,0
+75,0,Non-anginal Pain,118,258,0,ST-T Abnormality,163,0,2.0,Upsloping,3,Reversible Defect,1
+72,1,Atypical Angina,116,305,0,Normal,140,1,2.6,Downsloping,0,Reversible Defect,1
+31,1,Atypical Angina,103,233,0,ST-T Abnormality,164,0,1.3,Upsloping,0,Normal,0
+65,1,Non-anginal Pain,160,209,0,Normal,185,0,0.4,Upsloping,1,Normal,0
+35,1,Non-anginal Pain,157,221,0,Normal,178,0,0.4,Flat,0,Reversible Defect,1
+49,0,Atypical Angina,107,299,0,Normal,174,0,0.0,Upsloping,0,Normal,0
+37,1,Non-anginal Pain,121,349,1,Normal,189,0,1.5,Flat,1,Reversible Defect,1
+67,1,Asymptomatic,138,178,0,Normal,133,0,0.0,Flat,0,Normal,1
+46,1,Non-anginal Pain,125,190,0,ST-T Abnormality,181,0,2.1,Flat,0,Fixed Defect,1
+32,1,Asymptomatic,98,237,1,Normal,186,0,0.1,Downsloping,0,Normal,0
+53,1,Asymptomatic,119,251,0,Normal,156,1,0.2,Upsloping,0,Normal,1
+42,1,Asymptomatic,164,286,0,ST-T Abnormality,155,1,0.7,Flat,0,Normal,1
+37,1,Non-anginal Pain,120,200,0,Normal,191,0,1.4,Flat,0,Fixed Defect,0
+54,0,Asymptomatic,128,191,0,ST-T Abnormality,187,0,0.2,Flat,1,Reversible Defect,1
+30,0,Asymptomatic,111,253,0,ST-T Abnormality,189,0,0.6,Flat,2,Reversible Defect,1
+48,1,Asymptomatic,140,232,0,ST-T Abnormality,145,1,0.7,Downsloping,0,Normal,1
+56,1,Typical Angina,132,293,0,ST-T Abnormality,146,0,0.3,Upsloping,0,Reversible Defect,1
+75,1,Non-anginal Pain,118,270,0,ST-T Abnormality,142,1,0.1,Downsloping,0,Normal,0
+35,0,Atypical Angina,108,274,0,ST-T Abnormality,202,0,1.9,Upsloping,0,Normal,0
+72,1,Typical Angina,154,240,0,Normal,147,0,0.7,Flat,1,Normal,1
+36,1,Non-anginal Pain,103,366,0,ST-T Abnormality,172,0,0.0,Flat,1,Fixed Defect,1
+75,0,Asymptomatic,139,203,0,Normal,119,1,1.7,Upsloping,1,Normal,1
+63,1,Asymptomatic,94,277,0,ST-T Abnormality,147,0,4.2,Flat,0,Normal,1
+42,1,Typical Angina,143,181,1,Normal,154,0,1.0,Upsloping,0,Reversible Defect,0
+45,1,Asymptomatic,147,191,0,ST-T Abnormality,155,1,0.7,Downsloping,0,Reversible Defect,1
+64,1,Non-anginal Pain,149,215,0,Normal,160,0,2.2,Flat,0,Normal,1
+68,0,Asymptomatic,128,329,1,ST-T Abnormality,148,1,3.2,Flat,1,Normal,1
+32,0,Asymptomatic,157,259,0,Normal,202,0,1.5,Flat,3,Normal,1
+30,0,Non-anginal Pain,170,215,0,ST-T Abnormality,202,1,0.6,Flat,0,Normal,0
+34,1,Atypical Angina,125,265,0,ST-T Abnormality,171,0,0.9,Upsloping,1,Reversible Defect,0
+70,1,Asymptomatic,123,247,1,Normal,137,0,1.3,Upsloping,0,Normal,1
+32,1,Atypical Angina,133,220,0,ST-T Abnormality,202,1,0.2,Flat,0,Reversible Defect,0
+57,1,Typical Angina,122,174,0,ST-T Abnormality,194,0,0.6,Upsloping,1,Reversible Defect,1
+46,1,Asymptomatic,120,319,1,ST-T Abnormality,133,0,1.9,Upsloping,0,Normal,0
+54,1,Atypical Angina,121,256,0,Normal,168,0,1.1,Upsloping,0,Reversible Defect,0
+72,1,Asymptomatic,160,356,0,Normal,147,0,0.6,Upsloping,1,Normal,1
+62,0,Atypical Angina,144,293,0,Normal,172,0,1.1,Flat,2,Normal,1
+38,0,Asymptomatic,122,274,0,Normal,202,0,0.1,Flat,0,Normal,0
+64,1,Atypical Angina,94,223,0,ST-T Abnormality,150,0,0.5,Flat,0,Normal,0
+42,1,Asymptomatic,104,190,0,Normal,139,0,1.7,Upsloping,2,Normal,1
+59,0,Asymptomatic,139,234,0,ST-T Abnormality,173,0,0.3,Upsloping,2,Normal,1
+76,1,Typical Angina,94,188,1,Normal,174,0,0.2,Upsloping,1,Reversible Defect,1
+43,1,Non-anginal Pain,135,279,0,ST-T Abnormality,170,1,3.2,Flat,0,Reversible Defect,1
+36,0,Asymptomatic,112,329,0,ST-T Abnormality,168,1,0.2,Flat,2,Reversible Defect,1
+42,1,Non-anginal Pain,132,232,0,ST-T Abnormality,168,1,0.3,Downsloping,0,Normal,0
+51,1,Atypical Angina,132,294,0,Normal,184,0,3.7,Flat,1,Reversible Defect,1
+68,1,Non-anginal Pain,133,210,0,Normal,147,0,1.4,Flat,0,Reversible Defect,1
+49,0,Non-anginal Pain,124,230,0,Normal,176,0,1.3,Flat,1,Reversible Defect,1
+44,1,Asymptomatic,123,204,0,Normal,175,0,2.0,Downsloping,0,Reversible Defect,1
+73,1,Asymptomatic,118,137,0,Normal,150,0,0.1,Flat,0,Reversible Defect,1
+46,1,Non-anginal Pain,139,244,0,Normal,185,0,1.3,Upsloping,0,Normal,0
+75,1,Atypical Angina,144,252,0,Normal,141,0,0.7,Flat,0,Reversible Defect,1
+52,1,Non-anginal Pain,110,300,0,ST-T Abnormality,160,1,1.9,Flat,1,Normal,1
+54,1,Non-anginal Pain,130,286,0,Normal,181,0,0.7,Flat,2,Reversible Defect,1
+53,1,Typical Angina,134,287,0,Normal,149,0,1.0,Upsloping,3,Normal,1
+73,1,Asymptomatic,134,196,0,Normal,135,0,0.7,Flat,0,Normal,1
+69,1,Asymptomatic,133,269,0,ST-T Abnormality,132,0,0.7,Downsloping,1,Normal,1
+57,0,Asymptomatic,124,326,1,ST-T Abnormality,179,1,1.5,Upsloping,1,Reversible Defect,1
+43,1,Asymptomatic,135,265,0,ST-T Abnormality,173,0,1.0,Flat,0,Normal,0
+73,1,Non-anginal Pain,141,339,0,ST-T Abnormality,127,0,1.1,Upsloping,0,Normal,0
+29,0,Asymptomatic,133,348,0,Normal,202,0,0.6,Upsloping,1,Reversible Defect,0
+53,1,Non-anginal Pain,139,232,0,ST-T Abnormality,157,0,0.8,Upsloping,3,Reversible Defect,1
+35,0,Typical Angina,147,210,0,Normal,166,0,1.4,Upsloping,1,Normal,0
+37,1,Non-anginal Pain,99,207,0,Normal,176,1,1.8,Flat,0,Normal,0
+52,1,Non-anginal Pain,147,168,0,ST-T Abnormality,195,1,1.3,Upsloping,0,Reversible Defect,0
+29,1,Asymptomatic,136,219,1,ST-T Abnormality,179,1,2.7,Upsloping,0,Reversible Defect,1
+72,0,Typical Angina,112,307,0,Normal,162,0,1.8,Upsloping,1,Normal,1
+36,1,Typical Angina,144,133,1,ST-T Abnormality,194,1,0.9,Upsloping,1,Reversible Defect,1
+52,1,Atypical Angina,124,193,0,ST-T Abnormality,176,0,1.2,Upsloping,0,Normal,0
+39,1,Atypical Angina,126,239,0,Normal,201,0,2.7,Flat,2,Reversible Defect,1
+45,1,Asymptomatic,122,201,0,Normal,161,0,1.0,Upsloping,0,Reversible Defect,1
+36,1,Atypical Angina,136,219,0,Normal,162,0,1.8,Flat,3,Normal,1
+63,1,Non-anginal Pain,117,219,0,Normal,140,0,1.2,Flat,0,Normal,1
+63,1,Non-anginal Pain,146,232,1,Normal,156,1,0.8,Upsloping,0,Reversible Defect,1
+61,0,Non-anginal Pain,128,208,0,Normal,144,0,0.3,Flat,0,Reversible Defect,1
+33,1,Asymptomatic,124,204,0,Normal,186,0,0.6,Upsloping,0,Normal,0
+70,1,Non-anginal Pain,143,293,0,ST-T Abnormality,155,0,3.6,Upsloping,0,Fixed Defect,1
+67,0,Asymptomatic,125,299,0,ST-T Abnormality,174,1,1.1,Upsloping,0,Reversible Defect,1
+69,1,Non-anginal Pain,147,175,0,LV Hypertrophy,160,1,0.9,Upsloping,1,Normal,1
+56,1,Atypical Angina,147,126,0,Normal,157,1,2.8,Flat,1,Reversible Defect,1
+35,1,Asymptomatic,108,300,0,ST-T Abnormality,189,0,0.9,Flat,0,Fixed Defect,1
+37,1,Atypical Angina,149,183,0,ST-T Abnormality,161,0,0.8,Upsloping,0,Reversible Defect,0
+36,1,Typical Angina,106,256,0,ST-T Abnormality,180,0,1.5,Flat,0,Normal,0
+40,1,Asymptomatic,150,166,1,Normal,183,0,1.3,Upsloping,1,Normal,0
+62,1,Typical Angina,165,312,0,ST-T Abnormality,162,0,0.2,Flat,0,Normal,1
+61,0,Asymptomatic,145,375,0,Normal,168,0,0.7,Upsloping,2,Reversible Defect,1
+76,1,Non-anginal Pain,94,255,0,Normal,137,0,0.7,Upsloping,1,Reversible Defect,1
+51,1,Asymptomatic,149,241,1,ST-T Abnormality,189,1,0.5,Upsloping,0,Reversible Defect,1
+52,0,Asymptomatic,169,229,0,ST-T Abnormality,201,0,0.8,Upsloping,0,Reversible Defect,1
+65,1,Non-anginal Pain,125,285,1,Normal,129,0,0.6,Flat,0,Normal,0
+63,1,Asymptomatic,130,274,0,ST-T Abnormality,137,0,0.2,Flat,0,Reversible Defect,1
+72,1,Atypical Angina,110,297,0,ST-T Abnormality,153,1,0.6,Upsloping,2,Normal,1
+68,1,Asymptomatic,136,213,0,Normal,150,1,0.1,Flat,2,Reversible Defect,1
+50,1,Typical Angina,152,263,1,ST-T Abnormality,202,1,0.9,Flat,0,Normal,1
+55,1,Non-anginal Pain,142,218,0,Normal,169,1,2.0,Flat,1,Reversible Defect,1
+63,0,Atypical Angina,184,192,0,LV Hypertrophy,184,0,1.4,Upsloping,1,Reversible Defect,1
+29,1,Non-anginal Pain,131,243,0,ST-T Abnormality,149,0,0.5,Upsloping,1,Reversible Defect,1
+63,1,Atypical Angina,103,198,0,Normal,174,0,0.1,Downsloping,0,Normal,0
+65,0,Asymptomatic,133,305,0,ST-T Abnormality,145,0,0.2,Flat,0,Normal,1
+75,1,Asymptomatic,94,202,0,ST-T Abnormality,136,0,0.8,Upsloping,0,Fixed Defect,1
+42,0,Asymptomatic,121,264,1,ST-T Abnormality,171,0,0.2,Upsloping,2,Reversible Defect,1
+31,0,Atypical Angina,158,215,0,ST-T Abnormality,159,1,0.8,Upsloping,0,Normal,0
+29,0,Non-anginal Pain,136,260,0,ST-T Abnormality,194,1,0.3,Flat,0,Reversible Defect,0
+33,0,Non-anginal Pain,134,219,0,ST-T Abnormality,187,1,2.0,Flat,3,Normal,1
+54,1,Atypical Angina,161,181,0,ST-T Abnormality,171,1,0.5,Upsloping,1,Normal,0
+42,1,Atypical Angina,126,270,0,ST-T Abnormality,192,1,0.3,Flat,2,Reversible Defect,1
+67,1,Non-anginal Pain,152,233,0,Normal,183,0,1.8,Flat,0,Fixed Defect,1
+55,1,Asymptomatic,133,260,0,ST-T Abnormality,159,0,0.4,Flat,0,Reversible Defect,1
+37,1,Non-anginal Pain,137,224,1,Normal,188,1,0.1,Flat,2,Reversible Defect,1
+43,1,Non-anginal Pain,110,178,1,ST-T Abnormality,180,1,0.9,Flat,0,Normal,0
+43,0,Typical Angina,122,301,0,ST-T Abnormality,182,0,0.9,Upsloping,0,Normal,0
+54,1,Typical Angina,107,283,1,ST-T Abnormality,173,1,1.3,Flat,0,Normal,1
+70,0,Typical Angina,129,217,0,ST-T Abnormality,182,0,0.3,Upsloping,0,Normal,0
+41,1,Asymptomatic,137,249,0,ST-T Abnormality,168,0,0.6,Upsloping,0,Reversible Defect,1
+60,0,Typical Angina,112,299,0,Normal,134,1,0.3,Upsloping,2,Normal,1
+67,1,Typical Angina,165,222,0,ST-T Abnormality,143,0,0.1,Upsloping,3,Normal,1
+77,1,Atypical Angina,135,230,0,Normal,162,0,2.2,Upsloping,3,Normal,1
+60,0,Asymptomatic,131,258,1,Normal,162,0,1.4,Upsloping,0,Normal,0
+32,0,Asymptomatic,144,222,0,Normal,175,1,0.4,Flat,0,Normal,1
+58,1,Asymptomatic,116,289,1,ST-T Abnormality,144,0,1.0,Upsloping,0,Reversible Defect,1
+65,0,Asymptomatic,133,237,0,ST-T Abnormality,161,0,0.2,Flat,2,Reversible Defect,1
+51,1,Non-anginal Pain,118,206,0,ST-T Abnormality,180,0,2.3,Upsloping,0,Reversible Defect,0
+67,0,Typical Angina,157,277,1,Normal,161,0,0.1,Downsloping,1,Reversible Defect,1
+73,0,Asymptomatic,113,187,0,Normal,147,1,0.0,Flat,1,Normal,1
+43,1,Asymptomatic,132,348,0,Normal,178,0,0.7,Upsloping,0,Reversible Defect,0
+71,1,Non-anginal Pain,136,326,0,Normal,155,1,0.9,Flat,0,Normal,0
+57,0,Asymptomatic,137,272,0,ST-T Abnormality,167,0,0.9,Flat,3,Normal,1
+64,0,Asymptomatic,121,267,0,Normal,137,1,0.1,Flat,3,Fixed Defect,1
+41,0,Non-anginal Pain,115,265,0,Normal,180,0,0.4,Flat,0,Normal,0
+60,1,Asymptomatic,121,221,0,Normal,154,0,0.7,Flat,0,Reversible Defect,1
+35,1,Asymptomatic,139,261,1,Normal,200,0,0.3,Flat,3,Normal,1
+50,1,Non-anginal Pain,128,198,0,Normal,172,0,2.2,Upsloping,0,Reversible Defect,0
+56,1,Asymptomatic,144,271,0,Normal,180,0,0.1,Upsloping,0,Normal,0
+30,0,Typical Angina,139,290,0,ST-T Abnormality,180,0,0.7,Flat,0,Normal,0
+70,1,Asymptomatic,94,226,1,ST-T Abnormality,149,0,1.2,Upsloping,0,Reversible Defect,1
+73,1,Typical Angina,135,215,0,ST-T Abnormality,178,0,0.3,Flat,0,Normal,0
+34,0,Non-anginal Pain,169,184,0,LV Hypertrophy,190,0,1.0,Upsloping,0,Normal,0
+56,1,Asymptomatic,153,320,0,Normal,152,1,1.9,Flat,0,Normal,1
+56,1,Non-anginal Pain,138,219,0,ST-T Abnormality,181,0,0.2,Downsloping,0,Reversible Defect,0
+72,1,Non-anginal Pain,112,235,0,LV Hypertrophy,142,0,2.6,Upsloping,3,Reversible Defect,1
+72,1,Atypical Angina,139,261,0,Normal,156,0,0.8,Upsloping,2,Normal,1
+48,1,Typical Angina,143,260,0,ST-T Abnormality,202,1,0.4,Flat,2,Reversible Defect,1
+58,1,Asymptomatic,126,284,0,Normal,137,0,0.6,Flat,1,Reversible Defect,1
+39,1,Atypical Angina,136,226,0,Normal,175,1,0.4,Upsloping,0,Reversible Defect,0
+56,1,Typical Angina,156,187,1,Normal,172,1,1.4,Upsloping,0,Reversible Defect,1
+53,1,Non-anginal Pain,116,179,1,ST-T Abnormality,181,1,1.7,Downsloping,2,Normal,1
+67,0,Asymptomatic,113,216,0,ST-T Abnormality,134,0,1.9,Flat,0,Reversible Defect,1
+61,0,Asymptomatic,142,197,1,ST-T Abnormality,133,0,4.5,Upsloping,0,Normal,1
+29,0,Typical Angina,138,230,0,Normal,202,1,1.6,Upsloping,1,Normal,0
+55,0,Non-anginal Pain,148,312,0,Normal,153,0,1.0,Flat,0,Reversible Defect,1
+41,0,Non-anginal Pain,140,226,0,Normal,163,0,0.4,Upsloping,0,Reversible Defect,0
+69,1,Non-anginal Pain,121,226,0,Normal,182,0,0.8,Upsloping,3,Normal,1
+31,1,Asymptomatic,138,245,0,ST-T Abnormality,186,1,0.0,Flat,2,Normal,1
+67,1,Atypical Angina,111,225,1,Normal,157,0,1.4,Upsloping,0,Fixed Defect,0
+34,1,Non-anginal Pain,126,242,0,ST-T Abnormality,179,1,0.6,Flat,3,Normal,0
+36,1,Non-anginal Pain,139,273,1,ST-T Abnormality,159,0,0.0,Upsloping,1,Normal,0
+55,1,Asymptomatic,124,291,0,Normal,178,0,0.1,Flat,1,Normal,1
+37,1,Non-anginal Pain,172,297,0,ST-T Abnormality,187,0,0.5,Flat,0,Normal,0
+65,1,Non-anginal Pain,98,350,0,Normal,161,0,0.9,Upsloping,0,Fixed Defect,0
+61,0,Non-anginal Pain,121,275,0,Normal,159,1,0.7,Flat,1,Normal,0
+70,0,Non-anginal Pain,115,359,0,Normal,148,1,1.0,Upsloping,2,Reversible Defect,1
+72,0,Asymptomatic,119,206,0,ST-T Abnormality,168,0,0.7,Flat,1,Normal,1
+52,0,Non-anginal Pain,120,352,0,Normal,165,0,1.1,Flat,0,Reversible Defect,1
+43,0,Asymptomatic,108,226,0,ST-T Abnormality,174,1,0.3,Upsloping,0,Reversible Defect,1
+60,1,Asymptomatic,143,231,0,ST-T Abnormality,171,0,0.1,Upsloping,2,Reversible Defect,1
+60,1,Non-anginal Pain,121,239,0,Normal,165,0,1.0,Upsloping,0,Reversible Defect,1
+52,0,Non-anginal Pain,133,234,0,ST-T Abnormality,197,0,0.7,Flat,0,Reversible Defect,0
+69,0,Asymptomatic,123,250,0,ST-T Abnormality,123,0,0.0,Upsloping,0,Normal,1
+77,0,Non-anginal Pain,119,216,0,Normal,153,1,0.5,Upsloping,0,Reversible Defect,1
+77,1,Non-anginal Pain,159,288,0,Normal,135,1,0.1,Upsloping,1,Reversible Defect,1
+40,1,Asymptomatic,146,217,1,ST-T Abnormality,161,0,0.8,Upsloping,1,Normal,0
+67,1,Typical Angina,99,279,0,Normal,148,1,0.5,Flat,0,Normal,1
+30,0,Atypical Angina,97,323,1,ST-T Abnormality,186,0,1.0,Upsloping,0,Reversible Defect,0
+31,1,Atypical Angina,148,227,0,Normal,186,0,1.7,Flat,2,Reversible Defect,1
+77,1,Asymptomatic,122,286,1,Normal,121,0,0.4,Upsloping,0,Normal,1
+65,0,Typical Angina,102,274,1,Normal,148,0,3.4,Upsloping,0,Normal,1
+77,1,Typical Angina,148,360,0,Normal,153,0,0.8,Flat,3,Reversible Defect,1
+45,1,Typical Angina,133,220,0,ST-T Abnormality,158,0,1.0,Downsloping,0,Normal,1
+77,1,Typical Angina,135,286,0,Normal,128,1,1.2,Flat,3,Reversible Defect,1
+30,1,Typical Angina,144,163,0,ST-T Abnormality,145,1,1.2,Upsloping,0,Reversible Defect,1
+30,1,Non-anginal Pain,108,220,0,ST-T Abnormality,174,0,0.8,Upsloping,0,Reversible Defect,0
+56,1,Non-anginal Pain,103,264,0,ST-T Abnormality,144,1,0.6,Flat,0,Normal,1
+51,1,Atypical Angina,157,317,0,ST-T Abnormality,151,0,0.1,Upsloping,3,Reversible Defect,1
+65,1,Atypical Angina,106,183,0,Normal,153,0,0.0,Upsloping,0,Reversible Defect,0
+60,1,Typical Angina,110,286,0,Normal,151,0,0.5,Flat,0,Reversible Defect,1
+61,1,Atypical Angina,113,242,0,ST-T Abnormality,140,0,0.4,Flat,3,Normal,1
+29,1,Non-anginal Pain,166,168,1,Normal,148,0,0.5,Downsloping,0,Normal,0
+47,1,Asymptomatic,139,255,0,ST-T Abnormality,177,0,0.2,Flat,0,Reversible Defect,1
+30,1,Typical Angina,147,333,0,Normal,199,0,1.4,Flat,0,Normal,0
+72,0,Non-anginal Pain,134,188,0,ST-T Abnormality,145,1,2.0,Upsloping,1,Normal,1
+54,1,Atypical Angina,120,240,0,ST-T Abnormality,162,0,2.9,Upsloping,0,Normal,0
+60,1,Asymptomatic,141,195,1,ST-T Abnormality,162,0,0.7,Flat,0,Reversible Defect,1
+34,1,Asymptomatic,104,222,1,ST-T Abnormality,202,0,1.3,Flat,1,Normal,0
+60,1,Non-anginal Pain,112,319,1,ST-T Abnormality,133,1,2.0,Upsloping,0,Normal,1
+32,0,Atypical Angina,143,232,0,ST-T Abnormality,176,0,0.6,Upsloping,3,Normal,0
+39,1,Asymptomatic,107,317,0,ST-T Abnormality,147,1,0.4,Upsloping,2,Reversible Defect,1
+45,1,Typical Angina,127,302,0,Normal,180,0,2.9,Flat,1,Normal,1
+66,1,Typical Angina,128,227,0,Normal,154,0,0.8,Upsloping,2,Normal,0
+52,1,Atypical Angina,122,220,1,Normal,172,0,0.7,Upsloping,1,Normal,0
+33,1,Typical Angina,97,200,0,ST-T Abnormality,186,0,0.2,Flat,0,Reversible Defect,0
+62,1,Asymptomatic,120,198,0,Normal,178,0,0.1,Flat,1,Normal,1
+34,0,Asymptomatic,116,264,0,ST-T Abnormality,192,0,1.9,Upsloping,0,Normal,0
+50,0,Atypical Angina,133,244,0,ST-T Abnormality,184,1,1.0,Flat,0,Normal,0
+39,1,Non-anginal Pain,132,214,0,ST-T Abnormality,159,0,0.4,Flat,2,Reversible Defect,1
+76,1,Asymptomatic,137,167,0,ST-T Abnormality,170,1,0.2,Upsloping,0,Fixed Defect,1
+44,0,Asymptomatic,119,251,0,Normal,161,0,0.9,Upsloping,2,Reversible Defect,1
+61,1,Non-anginal Pain,139,222,0,ST-T Abnormality,149,0,0.9,Upsloping,0,Reversible Defect,0
+37,1,Asymptomatic,104,236,0,ST-T Abnormality,185,0,0.2,Upsloping,1,Normal,0
+34,1,Asymptomatic,100,261,0,Normal,188,1,2.0,Downsloping,0,Reversible Defect,1
+44,1,Asymptomatic,94,126,0,Normal,155,0,0.1,Upsloping,1,Normal,0
+57,1,Typical Angina,122,167,1,ST-T Abnormality,161,0,0.5,Flat,1,Fixed Defect,1
+31,1,Non-anginal Pain,118,363,0,ST-T Abnormality,202,0,1.2,Upsloping,1,Normal,0
+48,1,Asymptomatic,144,220,0,Normal,145,0,0.3,Upsloping,0,Normal,0
+64,0,Atypical Angina,119,126,0,ST-T Abnormality,185,0,1.8,Flat,0,Reversible Defect,0
+47,1,Asymptomatic,135,172,0,ST-T Abnormality,168,0,1.4,Upsloping,0,Normal,1
+54,1,Typical Angina,144,372,1,Normal,124,0,1.6,Upsloping,1,Reversible Defect,1
+31,1,Typical Angina,119,210,0,LV Hypertrophy,160,0,0.1,Upsloping,3,Normal,0
+47,1,Atypical Angina,136,305,0,ST-T Abnormality,155,1,0.2,Upsloping,0,Normal,0
+48,1,Typical Angina,148,252,0,ST-T Abnormality,160,0,0.4,Flat,1,Reversible Defect,1
+60,1,Asymptomatic,109,221,0,ST-T Abnormality,160,0,0.8,Upsloping,2,Reversible Defect,1
+35,0,Asymptomatic,131,285,0,Normal,133,0,1.4,Flat,0,Reversible Defect,1
+69,1,Asymptomatic,119,126,0,Normal,158,0,1.9,Flat,1,Normal,1
+61,1,Non-anginal Pain,111,172,0,Normal,142,0,1.3,Upsloping,2,Normal,1
+68,1,Atypical Angina,104,220,0,Normal,180,0,2.8,Upsloping,0,Reversible Defect,1
+67,0,Non-anginal Pain,110,177,0,Normal,151,0,1.4,Flat,0,Reversible Defect,1
+46,1,Non-anginal Pain,132,216,1,ST-T Abnormality,190,0,0.4,Flat,0,Normal,0
+68,1,Non-anginal Pain,103,289,0,ST-T Abnormality,175,0,0.3,Upsloping,3,Reversible Defect,1
+29,1,Atypical Angina,121,252,0,ST-T Abnormality,202,0,1.3,Flat,2,Reversible Defect,0
+39,1,Non-anginal Pain,144,313,0,ST-T Abnormality,168,1,0.2,Upsloping,1,Reversible Defect,1
+56,0,Non-anginal Pain,138,255,0,ST-T Abnormality,154,0,0.1,Flat,0,Reversible Defect,0
+53,1,Asymptomatic,121,296,0,Normal,163,0,0.8,Upsloping,0,Reversible Defect,1
+51,1,Asymptomatic,159,242,0,Normal,180,0,1.8,Flat,0,Normal,1
+59,0,Non-anginal Pain,163,215,0,ST-T Abnormality,153,0,0.1,Flat,0,Normal,0
+58,1,Non-anginal Pain,131,321,0,ST-T Abnormality,161,0,1.6,Upsloping,1,Reversible Defect,1
+70,1,Asymptomatic,94,209,0,Normal,158,0,1.8,Upsloping,3,Normal,1
+63,1,Typical Angina,146,263,0,ST-T Abnormality,143,1,0.7,Upsloping,2,Normal,1
+35,0,Asymptomatic,94,285,0,Normal,164,0,0.1,Downsloping,1,Normal,1
+44,1,Asymptomatic,156,288,0,ST-T Abnormality,171,0,0.2,Upsloping,0,Normal,0
+54,0,Non-anginal Pain,149,186,1,ST-T Abnormality,166,0,1.3,Upsloping,0,Reversible Defect,0
+76,1,Atypical Angina,161,299,0,ST-T Abnormality,157,0,1.3,Flat,0,Reversible Defect,1
+77,0,Atypical Angina,135,196,0,ST-T Abnormality,160,0,2.4,Flat,1,Normal,1
+30,1,Non-anginal Pain,124,287,0,ST-T Abnormality,166,1,0.9,Flat,2,Normal,1
+29,1,Typical Angina,123,273,0,ST-T Abnormality,172,0,0.1,Flat,0,Reversible Defect,0
+76,1,Asymptomatic,121,287,0,ST-T Abnormality,131,1,0.1,Upsloping,0,Reversible Defect,1
+40,1,Typical Angina,147,184,0,ST-T Abnormality,202,1,1.3,Flat,0,Reversible Defect,1
+33,0,Atypical Angina,143,275,0,ST-T Abnormality,181,1,0.2,Upsloping,0,Fixed Defect,0
+65,1,Asymptomatic,133,301,0,Normal,158,0,0.4,Upsloping,0,Normal,1
+60,1,Asymptomatic,118,255,0,Normal,163,0,0.7,Flat,0,Normal,1
+37,1,Atypical Angina,175,204,0,ST-T Abnormality,167,0,0.0,Flat,0,Reversible Defect,1
+69,0,Atypical Angina,146,292,0,Normal,182,0,0.3,Upsloping,2,Reversible Defect,1
+63,0,Typical Angina,103,251,1,Normal,166,0,0.6,Flat,1,Reversible Defect,1
+47,0,Asymptomatic,122,160,0,ST-T Abnormality,173,1,0.3,Upsloping,0,Normal,0
+76,1,Typical Angina,146,200,0,ST-T Abnormality,129,0,0.2,Upsloping,0,Reversible Defect,1
+44,1,Non-anginal Pain,117,219,0,ST-T Abnormality,153,0,1.4,Flat,0,Reversible Defect,1
+31,1,Asymptomatic,136,322,0,Normal,179,0,1.8,Upsloping,0,Normal,1
+48,0,Typical Angina,147,313,0,Normal,159,0,0.3,Upsloping,0,Normal,0
+52,1,Asymptomatic,94,313,0,Normal,149,0,1.6,Flat,0,Normal,1
+61,1,Asymptomatic,129,257,0,Normal,154,1,0.5,Downsloping,1,Normal,1
+52,1,Typical Angina,129,292,0,Normal,164,0,0.7,Upsloping,1,Normal,0
+39,0,Asymptomatic,123,187,1,Normal,181,1,2.0,Flat,0,Normal,1
+77,1,Non-anginal Pain,136,246,0,ST-T Abnormality,139,1,1.5,Flat,2,Fixed Defect,1
+36,0,Asymptomatic,142,269,0,ST-T Abnormality,163,1,1.7,Downsloping,0,Normal,1
+64,1,Non-anginal Pain,133,191,0,Normal,141,0,0.2,Flat,0,Normal,0
+66,1,Asymptomatic,124,256,0,Normal,179,1,0.1,Upsloping,0,Reversible Defect,1
+68,0,Non-anginal Pain,141,332,0,ST-T Abnormality,133,0,2.4,Upsloping,1,Fixed Defect,1
+48,1,Asymptomatic,131,274,1,Normal,178,0,0.5,Flat,3,Fixed Defect,1
+63,0,Asymptomatic,127,292,0,ST-T Abnormality,168,0,0.4,Flat,1,Normal,0
+76,1,Non-anginal Pain,108,126,0,Normal,147,0,1.4,Flat,2,Reversible Defect,1
+53,1,Asymptomatic,104,325,0,Normal,199,0,1.9,Flat,2,Normal,1
+63,1,Atypical Angina,108,236,0,Normal,168,0,2.1,Downsloping,1,Reversible Defect,1
+53,1,Atypical Angina,135,206,0,Normal,200,0,0.4,Upsloping,0,Normal,0
+57,1,Atypical Angina,129,237,0,ST-T Abnormality,152,1,2.0,Upsloping,0,Reversible Defect,1
+46,1,Atypical Angina,105,170,0,ST-T Abnormality,161,0,0.0,Upsloping,3,Normal,0
+74,1,Atypical Angina,141,299,0,ST-T Abnormality,160,0,0.1,Upsloping,1,Reversible Defect,1
+46,1,Asymptomatic,154,228,0,Normal,168,0,1.0,Upsloping,0,Normal,1
+30,1,Typical Angina,120,208,0,ST-T Abnormality,202,0,0.1,Upsloping,1,Normal,0
+63,1,Asymptomatic,101,237,0,ST-T Abnormality,165,1,0.4,Flat,0,Normal,1
+44,1,Atypical Angina,118,303,0,ST-T Abnormality,155,0,1.2,Flat,0,Reversible Defect,1
+69,1,Asymptomatic,145,252,0,Normal,123,0,0.4,Flat,0,Reversible Defect,1
+64,1,Asymptomatic,140,174,0,Normal,157,1,0.2,Flat,1,Reversible Defect,1
+61,1,Non-anginal Pain,115,269,0,ST-T Abnormality,159,1,0.3,Upsloping,2,Normal,0
+32,0,Asymptomatic,156,198,1,ST-T Abnormality,190,0,0.6,Flat,0,Normal,0
+61,1,Typical Angina,153,136,0,Normal,182,1,0.7,Flat,0,Reversible Defect,1
+42,1,Asymptomatic,118,322,0,Normal,195,0,1.6,Flat,0,Normal,0
+49,1,Atypical Angina,118,269,0,Normal,160,0,1.5,Upsloping,1,Reversible Defect,1
+76,0,Asymptomatic,120,242,0,ST-T Abnormality,125,0,0.6,Upsloping,0,Reversible Defect,1
+48,0,Typical Angina,122,228,0,Normal,149,1,2.0,Upsloping,0,Reversible Defect,1
+36,1,Non-anginal Pain,147,317,0,ST-T Abnormality,167,0,0.1,Flat,0,Normal,0
+35,1,Asymptomatic,138,403,1,ST-T Abnormality,175,0,0.3,Flat,0,Normal,0
+31,1,Atypical Angina,145,268,0,ST-T Abnormality,190,0,1.8,Flat,0,Normal,0
+45,0,Atypical Angina,142,193,0,ST-T Abnormality,159,0,0.5,Flat,1,Reversible Defect,1
+61,1,Typical Angina,160,238,0,Normal,166,0,4.2,Flat,0,Normal,1
+76,0,Atypical Angina,112,267,0,ST-T Abnormality,155,1,0.7,Downsloping,1,Normal,1
+40,1,Non-anginal Pain,137,126,0,Normal,180,0,1.6,Upsloping,0,Normal,0
+50,0,Typical Angina,94,263,0,ST-T Abnormality,149,0,0.5,Upsloping,0,Normal,0
+50,0,Atypical Angina,108,268,0,ST-T Abnormality,178,1,0.6,Downsloping,0,Reversible Defect,0
+74,1,Typical Angina,129,313,1,Normal,188,0,0.5,Upsloping,1,Reversible Defect,1
+58,1,Asymptomatic,138,308,0,ST-T Abnormality,168,0,1.3,Flat,3,Normal,1
+66,1,Typical Angina,129,251,0,ST-T Abnormality,104,0,0.8,Downsloping,2,Normal,1
+66,1,Atypical Angina,121,323,0,Normal,179,0,3.0,Flat,1,Reversible Defect,1
+73,1,Typical Angina,124,349,0,ST-T Abnormality,138,0,0.3,Flat,0,Normal,1
+36,0,Non-anginal Pain,154,247,0,ST-T Abnormality,202,0,0.1,Flat,2,Reversible Defect,1
+55,1,Asymptomatic,124,267,0,ST-T Abnormality,168,0,0.5,Flat,1,Reversible Defect,1
+55,1,Atypical Angina,160,155,0,Normal,135,0,1.0,Upsloping,0,Normal,0
+62,1,Atypical Angina,144,172,0,Normal,123,1,2.1,Upsloping,2,Fixed Defect,1
+49,1,Asymptomatic,138,203,0,Normal,198,1,0.4,Upsloping,0,Reversible Defect,1
+58,1,Asymptomatic,110,223,0,ST-T Abnormality,183,1,1.1,Flat,0,Normal,1
+61,1,Atypical Angina,146,190,0,Normal,201,1,0.5,Upsloping,0,Normal,0
+56,1,Asymptomatic,122,244,0,ST-T Abnormality,165,0,1.0,Upsloping,0,Normal,0
+75,1,Asymptomatic,110,224,0,Normal,148,1,2.3,Upsloping,0,Normal,1
+61,0,Atypical Angina,139,300,0,ST-T Abnormality,154,0,0.3,Flat,0,Reversible Defect,1
+33,1,Asymptomatic,107,221,0,Normal,171,0,0.5,Downsloping,0,Reversible Defect,1
+76,1,Asymptomatic,118,129,0,Normal,142,0,5.3,Downsloping,0,Reversible Defect,1
+47,0,Non-anginal Pain,130,252,1,Normal,176,0,2.1,Flat,1,Normal,0
+32,1,Typical Angina,168,245,0,Normal,169,1,0.9,Flat,1,Normal,1
+63,1,Typical Angina,119,202,0,ST-T Abnormality,129,1,0.8,Flat,0,Fixed Defect,1
+77,1,Asymptomatic,123,250,0,ST-T Abnormality,151,0,0.4,Flat,0,Normal,1
+45,1,Asymptomatic,143,191,0,ST-T Abnormality,158,1,0.8,Flat,0,Reversible Defect,1
+72,0,Asymptomatic,109,262,0,ST-T Abnormality,94,0,2.0,Upsloping,2,Normal,1
+56,1,Non-anginal Pain,138,380,0,ST-T Abnormality,175,0,1.2,Downsloping,0,Reversible Defect,1
+58,1,Non-anginal Pain,151,153,0,ST-T Abnormality,143,0,0.4,Upsloping,0,Fixed Defect,0
+57,1,Non-anginal Pain,125,219,0,ST-T Abnormality,176,0,0.2,Upsloping,0,Normal,0
+74,1,Atypical Angina,148,211,0,ST-T Abnormality,162,1,0.3,Flat,1,Normal,0
+34,1,Typical Angina,135,223,0,Normal,187,1,0.2,Upsloping,0,Normal,0
+63,1,Asymptomatic,118,298,0,ST-T Abnormality,202,1,0.1,Upsloping,0,Normal,1
+69,1,Atypical Angina,127,273,0,Normal,152,0,0.6,Flat,0,Reversible Defect,1
+65,1,Asymptomatic,124,289,0,ST-T Abnormality,152,1,0.1,Upsloping,0,Reversible Defect,1
+52,0,Atypical Angina,129,247,0,ST-T Abnormality,180,0,0.2,Flat,2,Reversible Defect,1
+57,1,Typical Angina,133,178,0,Normal,163,1,0.8,Flat,2,Reversible Defect,1
+77,0,Atypical Angina,140,189,0,Normal,169,0,0.2,Flat,1,Normal,0
+74,0,Non-anginal Pain,139,284,1,ST-T Abnormality,127,0,0.1,Flat,1,Normal,1
+59,0,Asymptomatic,94,254,0,ST-T Abnormality,140,0,0.4,Flat,0,Normal,1
+63,0,Typical Angina,129,310,1,Normal,173,0,0.3,Flat,1,Reversible Defect,1
+61,1,Asymptomatic,105,260,0,ST-T Abnormality,140,0,0.8,Flat,1,Normal,1
+49,1,Non-anginal Pain,126,185,1,ST-T Abnormality,181,0,0.1,Flat,0,Reversible Defect,0
+60,1,Asymptomatic,128,219,0,ST-T Abnormality,168,0,1.5,Flat,2,Normal,1
+51,0,Atypical Angina,147,274,0,ST-T Abnormality,156,0,2.5,Flat,0,Reversible Defect,1
+61,1,Asymptomatic,130,282,0,ST-T Abnormality,167,0,1.4,Upsloping,0,Reversible Defect,1
+31,1,Asymptomatic,135,289,0,Normal,162,0,0.8,Upsloping,1,Normal,0
+46,1,Atypical Angina,144,192,0,ST-T Abnormality,155,0,2.1,Downsloping,1,Normal,1
+53,1,Typical Angina,151,184,0,ST-T Abnormality,163,1,1.2,Upsloping,1,Fixed Defect,1
+70,1,Asymptomatic,128,236,0,Normal,155,0,0.0,Upsloping,0,Normal,0
+59,0,Asymptomatic,132,319,0,Normal,157,1,0.5,Flat,2,Normal,1
+31,1,Typical Angina,131,210,1,Normal,192,1,2.0,Upsloping,0,Reversible Defect,0
+68,1,Asymptomatic,121,269,1,ST-T Abnormality,162,0,0.4,Upsloping,0,Normal,1
+74,1,Asymptomatic,117,269,1,ST-T Abnormality,178,1,0.0,Downsloping,3,Fixed Defect,1
+52,0,Asymptomatic,94,284,0,ST-T Abnormality,166,1,1.4,Flat,1,Reversible Defect,1
+60,1,Asymptomatic,112,330,0,ST-T Abnormality,183,1,1.7,Upsloping,0,Normal,0
+75,1,Asymptomatic,100,325,0,ST-T Abnormality,166,0,0.2,Downsloping,1,Normal,1
+50,1,Non-anginal Pain,152,215,0,Normal,202,0,0.8,Downsloping,0,Normal,0
+51,1,Atypical Angina,134,139,0,Normal,166,0,0.2,Upsloping,0,Reversible Defect,0
+30,1,Atypical Angina,128,211,0,Normal,178,0,1.3,Upsloping,0,Normal,0
+55,0,Asymptomatic,118,249,0,Normal,188,0,0.3,Flat,3,Reversible Defect,1
+70,0,Asymptomatic,131,227,0,ST-T Abnormality,160,0,0.4,Flat,0,Normal,1
+30,1,Atypical Angina,116,346,1,ST-T Abnormality,202,1,2.0,Flat,1,Normal,0
+54,1,Asymptomatic,133,246,0,Normal,179,1,0.7,Flat,0,Normal,0
+45,0,Asymptomatic,135,279,1,ST-T Abnormality,136,0,1.2,Flat,1,Normal,1
+68,1,Non-anginal Pain,116,257,0,ST-T Abnormality,162,0,0.5,Upsloping,0,Normal,0
+61,1,Non-anginal Pain,116,228,0,Normal,166,0,0.4,Flat,1,Fixed Defect,1
+37,1,Non-anginal Pain,147,147,0,Normal,182,1,1.0,Upsloping,0,Normal,0
+71,1,Atypical Angina,130,241,0,Normal,150,1,0.2,Flat,1,Normal,1
+76,1,Atypical Angina,117,411,0,Normal,120,0,0.5,Flat,3,Normal,1
+67,1,Typical Angina,124,182,0,ST-T Abnormality,172,0,0.2,Upsloping,1,Reversible Defect,1
+57,1,Atypical Angina,113,153,0,Normal,171,0,1.2,Flat,0,Fixed Defect,0
+70,1,Non-anginal Pain,129,344,0,Normal,173,0,3.0,Upsloping,2,Normal,1
+54,1,Non-anginal Pain,145,283,0,ST-T Abnormality,139,0,5.7,Upsloping,0,Reversible Defect,1
+63,1,Typical Angina,130,255,1,LV Hypertrophy,168,1,0.6,Flat,1,Normal,1
+53,1,Asymptomatic,171,315,0,Normal,163,1,0.3,Upsloping,2,Reversible Defect,1
+52,1,Atypical Angina,138,203,0,Normal,170,1,0.6,Flat,0,Normal,0
+41,0,Asymptomatic,134,240,0,Normal,173,1,2.0,Upsloping,0,Normal,1
+35,0,Asymptomatic,115,294,0,Normal,191,0,0.2,Flat,0,Reversible Defect,1
+64,1,Atypical Angina,126,353,0,Normal,155,0,3.2,Flat,0,Normal,1
+73,1,Non-anginal Pain,117,186,0,ST-T Abnormality,132,1,0.4,Flat,1,Reversible Defect,1
+48,1,Typical Angina,94,311,1,Normal,173,1,4.5,Flat,0,Normal,1
+29,1,Non-anginal Pain,147,265,0,Normal,182,0,1.9,Downsloping,0,Reversible Defect,1
+36,1,Non-anginal Pain,122,254,1,ST-T Abnormality,179,0,1.7,Upsloping,0,Reversible Defect,0
+74,0,Atypical Angina,118,245,1,Normal,93,0,0.4,Upsloping,0,Normal,1
+44,1,Non-anginal Pain,134,175,0,Normal,187,0,0.0,Upsloping,0,Reversible Defect,0
+42,1,Atypical Angina,139,295,0,Normal,170,0,0.5,Upsloping,2,Fixed Defect,0
+40,1,Atypical Angina,125,206,1,ST-T Abnormality,153,0,0.4,Downsloping,0,Fixed Defect,0
+51,1,Asymptomatic,130,190,0,Normal,185,0,0.0,Upsloping,2,Normal,1
+43,1,Atypical Angina,143,291,0,ST-T Abnormality,187,0,0.7,Flat,0,Reversible Defect,1
+56,1,Non-anginal Pain,124,286,1,ST-T Abnormality,159,1,0.5,Flat,0,Normal,0
+62,1,Non-anginal Pain,136,250,0,Normal,139,0,1.1,Upsloping,1,Normal,0
+30,1,Asymptomatic,102,301,0,LV Hypertrophy,189,1,1.0,Flat,0,Reversible Defect,1
+60,0,Typical Angina,109,318,0,Normal,164,0,0.1,Upsloping,0,Reversible Defect,0
+51,0,Non-anginal Pain,141,312,0,Normal,185,1,4.0,Flat,0,Normal,0
+50,1,Asymptomatic,109,219,0,ST-T Abnormality,162,0,0.2,Upsloping,0,Normal,0
+53,1,Atypical Angina,134,297,0,ST-T Abnormality,189,1,0.6,Downsloping,0,Normal,1
+50,1,Asymptomatic,128,256,0,ST-T Abnormality,160,0,0.7,Downsloping,0,Normal,1
+50,0,Asymptomatic,124,334,0,Normal,145,1,1.8,Upsloping,0,Normal,1
+77,1,Asymptomatic,116,239,0,Normal,128,1,0.1,Upsloping,0,Reversible Defect,1
+70,1,Asymptomatic,146,227,0,ST-T Abnormality,152,0,0.6,Flat,0,Normal,1
+34,1,Asymptomatic,160,214,0,Normal,181,0,1.0,Upsloping,0,Reversible Defect,1
+43,1,Asymptomatic,136,255,0,Normal,181,0,0.3,Flat,0,Reversible Defect,1
+71,1,Asymptomatic,136,269,0,Normal,151,0,1.0,Flat,0,Normal,1
+65,1,Asymptomatic,119,270,0,Normal,175,0,2.7,Upsloping,3,Normal,1
+61,1,Typical Angina,110,263,0,ST-T Abnormality,156,0,6.2,Flat,0,Normal,1
+36,1,Typical Angina,130,280,1,Normal,145,0,0.0,Flat,1,Normal,0
+72,1,Non-anginal Pain,114,234,0,LV Hypertrophy,150,0,0.3,Flat,0,Reversible Defect,1
+72,0,Typical Angina,100,201,0,Normal,116,0,0.4,Downsloping,2,Normal,1
+33,1,Non-anginal Pain,144,197,0,ST-T Abnormality,188,0,0.5,Upsloping,0,Reversible Defect,0
+67,1,Atypical Angina,145,295,0,Normal,175,0,0.3,Upsloping,3,Normal,1
+32,1,Atypical Angina,116,269,0,Normal,166,0,0.2,Downsloping,1,Normal,0
+34,1,Asymptomatic,135,151,0,Normal,202,0,3.2,Flat,0,Normal,1
+73,1,Asymptomatic,148,301,0,Normal,166,0,2.6,Upsloping,2,Normal,1
+60,1,Typical Angina,134,341,0,ST-T Abnormality,183,1,0.1,Flat,0,Normal,0
+58,1,Non-anginal Pain,110,209,0,LV Hypertrophy,167,0,0.4,Upsloping,0,Normal,0
+75,0,Asymptomatic,127,263,0,ST-T Abnormality,132,0,0.5,Upsloping,1,Reversible Defect,1
+63,1,Typical Angina,153,221,0,Normal,173,0,0.3,Flat,2,Reversible Defect,1
+68,0,Asymptomatic,135,278,0,Normal,144,1,1.0,Upsloping,0,Normal,1
+44,1,Atypical Angina,140,186,0,Normal,176,1,1.1,Downsloping,0,Normal,0
+41,1,Atypical Angina,136,242,0,ST-T Abnormality,174,1,2.0,Upsloping,1,Normal,0
+70,0,Asymptomatic,116,296,0,ST-T Abnormality,174,1,1.4,Flat,1,Normal,1
+58,0,Atypical Angina,120,309,0,ST-T Abnormality,176,0,0.8,Upsloping,2,Normal,0
+47,0,Asymptomatic,136,267,0,Normal,170,0,1.1,Flat,1,Normal,1
+45,1,Asymptomatic,144,228,0,ST-T Abnormality,138,0,0.3,Flat,0,Normal,1
+47,1,Typical Angina,149,164,0,Normal,160,1,0.9,Upsloping,3,Normal,1
+56,0,Asymptomatic,116,207,0,ST-T Abnormality,177,0,0.7,Flat,0,Normal,0
+54,1,Asymptomatic,138,222,0,ST-T Abnormality,171,1,0.2,Flat,0,Normal,1
+65,1,Typical Angina,151,210,1,ST-T Abnormality,130,0,0.3,Upsloping,0,Reversible Defect,1
+54,0,Asymptomatic,114,249,0,ST-T Abnormality,134,1,0.4,Flat,0,Normal,1
+51,1,Non-anginal Pain,156,228,0,Normal,172,0,2.7,Upsloping,0,Normal,0
+37,1,Non-anginal Pain,158,254,0,ST-T Abnormality,161,0,0.3,Flat,1,Fixed Defect,0
+40,1,Non-anginal Pain,175,307,0,Normal,160,0,0.4,Flat,0,Reversible Defect,1
+29,0,Atypical Angina,134,225,0,ST-T Abnormality,198,0,0.5,Flat,0,Reversible Defect,0
+29,0,Asymptomatic,135,175,0,Normal,202,0,1.1,Upsloping,2,Reversible Defect,0
+75,0,Asymptomatic,145,210,0,ST-T Abnormality,136,1,0.1,Upsloping,0,Normal,1
+62,1,Non-anginal Pain,144,275,1,ST-T Abnormality,159,0,3.2,Upsloping,0,Fixed Defect,1
+60,1,Asymptomatic,150,280,0,ST-T Abnormality,160,0,2.1,Flat,0,Reversible Defect,1
+76,0,Non-anginal Pain,144,266,1,ST-T Abnormality,146,0,0.9,Flat,3,Normal,1
+53,0,Non-anginal Pain,129,312,0,ST-T Abnormality,168,0,1.2,Flat,0,Normal,0
+68,0,Asymptomatic,151,236,0,ST-T Abnormality,169,1,0.0,Upsloping,0,Reversible Defect,1
+73,0,Non-anginal Pain,112,350,0,ST-T Abnormality,139,1,0.4,Upsloping,0,Normal,0
+29,1,Non-anginal Pain,131,287,0,ST-T Abnormality,159,1,1.7,Upsloping,0,Normal,0
+44,1,Asymptomatic,157,126,0,Normal,202,1,0.1,Upsloping,0,Normal,0
+67,0,Non-anginal Pain,109,337,0,ST-T Abnormality,176,1,0.3,Upsloping,0,Normal,0
+33,0,Typical Angina,119,206,0,ST-T Abnormality,163,0,0.9,Upsloping,0,Normal,0
+50,1,Atypical Angina,142,193,0,ST-T Abnormality,172,1,0.3,Upsloping,3,Reversible Defect,1
+57,1,Non-anginal Pain,137,272,0,Normal,182,0,2.9,Upsloping,0,Reversible Defect,1
+31,1,Asymptomatic,116,157,1,Normal,198,0,0.1,Upsloping,0,Normal,0
+40,0,Non-anginal Pain,123,210,0,ST-T Abnormality,186,0,1.7,Upsloping,0,Reversible Defect,0
+54,1,Asymptomatic,110,325,0,Normal,163,1,0.7,Upsloping,0,Normal,1
+44,1,Non-anginal Pain,147,274,1,ST-T Abnormality,202,1,1.5,Upsloping,1,Normal,0
+65,0,Non-anginal Pain,126,287,0,Normal,161,0,0.4,Flat,0,Reversible Defect,1
+50,1,Atypical Angina,161,212,0,Normal,160,1,0.8,Upsloping,0,Reversible Defect,1
+57,1,Non-anginal Pain,132,167,0,ST-T Abnormality,180,1,2.0,Upsloping,1,Reversible Defect,1
+42,1,Asymptomatic,127,282,1,ST-T Abnormality,178,0,0.7,Upsloping,0,Reversible Defect,1
+56,1,Asymptomatic,125,293,0,ST-T Abnormality,171,0,0.5,Upsloping,0,Reversible Defect,1
+33,1,Non-anginal Pain,126,291,0,ST-T Abnormality,187,1,0.8,Upsloping,0,Reversible Defect,0
+75,1,Typical Angina,132,256,0,Normal,158,0,1.3,Flat,0,Normal,1
+77,1,Atypical Angina,173,196,0,ST-T Abnormality,130,0,0.6,Flat,0,Reversible Defect,1
+58,0,Typical Angina,125,370,0,Normal,137,0,2.9,Upsloping,0,Reversible Defect,1
+74,1,Asymptomatic,125,270,0,ST-T Abnormality,176,0,0.4,Upsloping,0,Reversible Defect,1
+33,0,Atypical Angina,132,237,0,ST-T Abnormality,188,1,0.7,Flat,2,Normal,0
+40,1,Non-anginal Pain,149,237,0,Normal,191,1,1.5,Upsloping,0,Normal,0
+44,0,Non-anginal Pain,106,253,1,ST-T Abnormality,143,1,1.2,Upsloping,0,Fixed Defect,1
+54,0,Typical Angina,138,300,0,ST-T Abnormality,186,1,2.1,Flat,0,Normal,1
+54,0,Non-anginal Pain,117,255,0,Normal,157,1,6.0,Flat,0,Reversible Defect,1
+76,1,Atypical Angina,140,289,0,LV Hypertrophy,134,1,0.6,Upsloping,0,Normal,1
+49,0,Non-anginal Pain,122,253,0,Normal,169,0,0.1,Flat,2,Normal,0
+67,0,Atypical Angina,94,240,1,Normal,138,0,0.0,Upsloping,1,Reversible Defect,1
+64,0,Asymptomatic,137,278,0,ST-T Abnormality,158,0,1.4,Upsloping,3,Normal,1
+61,1,Atypical Angina,137,276,0,ST-T Abnormality,158,1,2.2,Flat,2,Normal,1
+58,1,Asymptomatic,121,237,0,ST-T Abnormality,182,0,0.3,Upsloping,0,Fixed Defect,0
